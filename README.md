@@ -6,7 +6,8 @@ Darcula color scheme for Qt Creator GUI and syntax highlighting.
 Install
 -------
 
-1. The stylesheet darcula.css defines color scheme for the Qt Creator GUI. Can be loaded with the -stylesheet parameter on startup of Qt Creator.  
+1. The stylesheet darcula.css defines color scheme for the Qt Creator GUI.  
+Can be loaded with the -stylesheet parameter on startup of Qt Creator.  
   Example:
   ```
   qtcreator -stylesheet=/path/to/stylesheet/darcula.css
