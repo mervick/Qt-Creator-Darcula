@@ -1,7 +1,7 @@
-License
-=======
+###GNU GENERAL PUBLIC LICENSE 
 
-###GNU GENERAL PUBLIC LICENSE  
+Author: Andrey Izman <izmanw@gmail.com>  
+Reference: https://github.com/mervick/Qt-Creator-Darcula
 
 This program is free software: you can redistribute it and/or modify  
 it under the terms of the GNU General Public License as published by  
