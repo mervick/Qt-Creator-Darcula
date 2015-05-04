@@ -1,7 +1,7 @@
-Qt-Creator-Darcula
-==================
+QT Creator dark theme
+=====================
 
-The darkness color scheme "Darcula" for Qt Creator GUI and syntax highlighting. 
+The darkness color scheme "Darcula" (based on Darcula IntelliJ Theme) for Qt Creator and syntax highlighting theme. 
 
 Usage
 -----
