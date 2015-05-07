@@ -16,7 +16,7 @@ Can be loaded with the `-stylesheet` parameter on startup of Qt Creator.
 2. Colorscheme file `darcula.xml` which defines the colors for syntax highlighting. This file should be copied into the styles directory of Qt Creator.
 On linux the path to this directory is `~/.config/QtProject/qtcreator/styles`.
 
-3. The color scheme use some images for the GUI elements. The directory `images` must be located in the same directory with the file `darcula.css`.
+3. The color scheme use some images for the GUI elements. So, directory `images` must be located in the same directory with the file `darcula.css`.
 
 
 Enjoy coding!
