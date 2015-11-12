@@ -1,7 +1,5 @@
 QT Creator dark theme
 =====================
-[![Analytics](https://ga-beacon.appspot.com/UA-65295275-1/Qt-Creator-Darcula)](https://github.com/igrigorik/ga-beacon)
-
 The darkness color scheme "Darcula" (based on Darcula IntelliJ Theme) for Qt Creator and syntax highlighting theme. 
 
 Usage
