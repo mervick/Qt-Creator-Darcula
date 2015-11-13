@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Darcula">
-  <style name="Text" foreground="#a9b7c6" background="#2b2b2b"/>
+  <style name="Text" foreground="#cccccc" background="#2b2b2b"/>
   <style name="Link" foreground="#589df6"/>
-  <style name="Selection" foreground="#ffffff" background="#4e4e8f"/>
+  <style name="Selection" background="#214283"/>
   <style name="LineNumber" foreground="#888888" background="#313335"/>
   <style name="SearchResult" background="#425f44"/>
   <style name="SearchScope" background="#214283"/>
