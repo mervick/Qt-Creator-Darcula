@@ -22,5 +22,5 @@ Enjoy coding!
 
 Previews
 --------
-![Options Dialog - Screenshot](http://webstyle.od.ua/test/qt-creator-darcula/previews/screen1.png)
-![Analyze - Screenshot](http://webstyle.od.ua/test/qt-creator-darcula/previews/screen2.png)
+![Options Dialog - Screenshot](https://raw.githubusercontent.com/mervick/Qt-Creator-Darcula/master/previews/screen1.png)
+![Analyze - Screenshot](https://raw.githubusercontent.com/mervick/Qt-Creator-Darcula/master/previews/screen2.png)
