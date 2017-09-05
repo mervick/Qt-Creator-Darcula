@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme version="1.0" name="Darcula">
-  <style name="Text" foreground="#cccccc" background="#2b2b2b"/>
-  <style name="Link" foreground="#589df6"/>
+  <style name="Text" foreground="#a9b7c6" background="#2b2b2b"/>
+  <style name="Link" foreground="#287bde"/>
   <style name="Selection" background="#214283"/>
-  <style name="LineNumber" foreground="#888888" background="#313335"/>
-  <style name="SearchResult" background="#425f44"/>
+  <style name="LineNumber" foreground="#606366" background="#313335"/>
+  <style name="SearchResult" background="#155221"/>
   <style name="SearchScope" background="#214283"/>
-  <style name="Parentheses" foreground="#ffee35" background="#3b514d" bold="true"/>
+  <style name="Parentheses" bold="true"/>
+  <style name="ParenthesesMismatch"/>
   <style name="CurrentLine" background="#3a3a3a"/>
   <style name="CurrentLineNumber" foreground="#888888" bold="true"/>
   <style name="Occurrences" foreground="#000000" background="#616161"/>
-  <style name="Occurrences.Unused" foreground="#808000"/>
+  <style name="Occurrences.Unused" foreground="#cccccc" underlineStyle="DotLine"/>
   <style name="Occurrences.Rename" foreground="#000000" background="#ff6464"/>
   <style name="Number" foreground="#6897bb"/>
   <style name="String" foreground="#6a8759"/>
-  <style name="Type" foreground="#9574a6"/>
-  <style name="Local"/>
-  <style name="Field" foreground="#ffc66d"/>
-  <style name="Static" foreground="#cb6ecb"/>
+  <style name="Type" foreground="#b5b6e3"/>
+  <style name="Local" foreground="#a9b7c6"/>
+  <style name="Field" foreground="#9876aa"/>
+  <style name="Static" foreground="#b5b6e3"/>
   <style name="VirtualMethod" foreground="#ffc66d" italic="true"/>
-  <style name="Function" foreground="#ffc66d"/>
+  <style name="Function" foreground="#a9b7c6"/>
   <style name="Keyword" foreground="#d57c33" bold="true"/>
+  <style name="PrimitiveType" foreground="#d57c33"/>
   <style name="Operator" foreground="#cfbfad"/>
-  <style name="Preprocessor" foreground="#5983aa"/>
-  <style name="Label" foreground="#e76000"/>
-  <style name="Comment" foreground="#737373" italic="true"/>
-  <style name="Doxygen.Comment" foreground="#737dd5"/>
-  <style name="Doxygen.Tag" foreground="#4e5ab3"/>
+  <style name="Preprocessor" foreground="#bbb529"/>
+  <style name="Label" foreground="#a9b7c6" background="#2b2b2b"/>
+  <style name="Comment" foreground="#808080" italic="true"/>
+  <style name="Doxygen.Comment" foreground="#629755"/>
+  <style name="Doxygen.Tag" foreground="#629755" bold="true" italic="true" underlineStyle="SingleUnderline"/>
   <style name="VisualWhitespace" foreground="#646482"/>
   <style name="QmlLocalId" italic="true"/>
   <style name="QmlExternalId" foreground="#aaaaff" italic="true"/>
@@ -50,4 +52,9 @@
   <style name="DiffSourceChar" background="#c34141"/>
   <style name="DiffDestLine" background="#277027"/>
   <style name="DiffDestChar" background="#339d33"/>
+  <style name="LogChangeLine" foreground="#c00000"/>
+  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
+  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
+  <style name="Error" underlineColor="#ff0000" underlineStyle="WaveUnderline"/>
+  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
 </style-scheme>
