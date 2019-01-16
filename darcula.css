@@ -37,6 +37,7 @@ QGraphicsView {
 QMainWindow,
 QAbstractItemView,
 QTreeView::branch,
+QTreeView::item,
 QTabBar::tab,
 QTreeWidget,
 QToolBox,
