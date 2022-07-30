@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://stand-with-ukraine.pp.ua/)
+
 QT Creator dark theme
 =====================
 The darkness color scheme "Darcula" (based on Darcula IntelliJ Theme) for Qt Creator and syntax highlighting theme. 
